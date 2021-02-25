@@ -41,7 +41,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-## When building this app, I had challenges in sycing the gradele files. Intially, my SimpleTweet didnt get sycned because it was missing few gradle files. I overcame this by watching a youtube video on it.
+When building this app, I had challenges in sycing the gradele files. Intially, my SimpleTweet didnt get sycned because it was missing few gradle files. I overcame this by watching a Youtube video on it.
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
